@@ -1,0 +1,13 @@
+
+project name :
+	college
+app name:
+	cs
+
+model name :Finalyearstudents
+
+
+superuserdetails:
+principal
+nkcollege@gmail.com
+nkadmin123
