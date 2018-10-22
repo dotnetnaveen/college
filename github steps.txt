@@ -1,0 +1,15 @@
+git init
+git add README.md
+
+git config --global user.name "user"
+
+git config --global user.mail "uer123@gmail.com"
+git status
+git add --all
+
+
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/dotnetnaveen/college.git
+git push -u origin master
